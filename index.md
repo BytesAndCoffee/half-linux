@@ -30,4 +30,5 @@ Rebuilt from the ashes of dependency hell, the admin faces a new enemy: oppressi
 This project is hosted on GitHub Pages. Explore the saga, share it with others, or contribute your own stories!
 
 Copyright 2024 [BytesAndCoffee](https://github.com/BytesAndCoffee)
+
 Written with ChatGPT
