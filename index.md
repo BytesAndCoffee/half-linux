@@ -11,17 +11,17 @@ Welcome to the **Half-Linux** saga, a tale of chaos, resilience, and the existen
 
 ## **Episodes**
 
-### [Half-Linux: Resonance Cascade Edition](/Half-Linux_2_Rise_of_the_Combined_Build_Systems.md)
+### [Half-Linux: Resonance Cascade Edition](Half-Linux_Resonance_Cascade_Edition.md)
 *"The right terminal, in the wrong hands, can destroy everything..."*  
 A simple task—installing a package—spirals out of control, unleashing a cascade of errors and plunging the system into chaos. Dependency hell awaits.  
-[Read Part 1](/Half-Linux_2_Rise_of_the_Combined_Build_Systems.md)
+[Read Part 1](Half-Linux_Resonance_Cascade_Edition.md)
 
 ---
 
-### [Half-Linux 2: Rise of the Combine(d Build Systems)](Half-Linux_Resonance_Cascade_Edition.md)
+### [Half-Linux 2: Rise of the Combine(d Build Systems)](Half-Linux_2_Rise_of_the_Combined_Build_Systems.md)
 *"It’s not about freedom anymore—it’s about survival."*  
 Rebuilt from the ashes of dependency hell, the admin faces a new enemy: oppressive build systems. Will they resist the Combine, or succumb to the chaos?  
-[Read Part 2](Half-Linux_Resonance_Cascade_Edition.md)
+[Read Part 2](Half-Linux_2_Rise_of_the_Combined_Build_Systems.md)
 
 ---
 
